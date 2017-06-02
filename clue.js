@@ -1,3 +1,4 @@
+//Deokjae Jeon and JessicaS
 
 var cards = {
   characters:
